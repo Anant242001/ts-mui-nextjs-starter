@@ -57,7 +57,7 @@ sections:
         title: Third Card Title
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/1.21.webp
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
