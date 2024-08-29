@@ -20,7 +20,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Download section for downloading versions of minecraft
     subtitle: Section subtitle here
     items:
       - type: Card
