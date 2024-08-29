@@ -54,7 +54,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: '1.21'
         image:
           type: Image
           url: /images/1.21.webp
