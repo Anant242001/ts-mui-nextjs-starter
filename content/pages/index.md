@@ -5,9 +5,8 @@ sections:
   - type: HeroSection
     title: Download free minecraft versions
     subtitle: We provide free minecraft versions
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally.
+    text: |
+      Scroll Down.
     actions:
       - type: Button
         label: Start Downloading
