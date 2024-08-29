@@ -21,7 +21,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Download section for downloading versions of minecraft
-    subtitle: Download here.
+    subtitle: Download here!
     items:
       - type: Card
         title: Version 1.19.3
