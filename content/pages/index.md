@@ -33,7 +33,7 @@ sections:
           **Minecraft 1.19 apk for Android**
         actions:
           - type: Button
-            label: Read the Docs
+            label: Download
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Version 1.20
