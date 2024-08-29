@@ -41,9 +41,8 @@ sections:
           type: Image
           url: /images/1.20.webp
           altText: Second item image
-        text: |+
-          Minecraft 1.20.3  apk for Android
-
+        text: |
+          Minecraft 1.20  apk for Android
         actions:
           - type: Button
             label: Read the Docs
