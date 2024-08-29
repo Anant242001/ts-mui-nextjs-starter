@@ -56,4 +56,5 @@ sections:
           - type: Button
             label: DOWNLOAD
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            variant: outlined
 ---
