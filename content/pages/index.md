@@ -7,13 +7,7 @@ sections:
     subtitle: We provide free minecraft versions
     text: |
       Scroll Down.
-    actions:
-      - type: Button
-        label: Start Downloading
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
