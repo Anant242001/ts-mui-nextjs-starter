@@ -24,7 +24,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Version 1.19.3
         image:
           type: Image
           url: /images/1.19.3.png
