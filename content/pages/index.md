@@ -39,7 +39,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Version 1.20
         image:
           type: Image
           url: /images/1.20.webp
