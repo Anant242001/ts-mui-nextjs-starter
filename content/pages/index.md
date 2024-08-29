@@ -42,6 +42,7 @@ sections:
           - type: Button
             label: DOWNLOAD
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            variant: outlined
       - type: Card
         title: Version 1.21
         image:
