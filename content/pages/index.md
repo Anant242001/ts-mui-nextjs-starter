@@ -27,7 +27,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: 'https://download'
+            url: 'https://download.netlify.app'
       - type: Card
         title: Version 1.20
         image:
