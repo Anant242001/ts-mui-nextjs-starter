@@ -29,11 +29,8 @@ sections:
           type: Image
           url: /images/1.19.3.png
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: |
+          **Minecraft 1.19 apk for Android**
         actions:
           - type: Button
             label: Read the Docs
