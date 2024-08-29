@@ -28,6 +28,8 @@ sections:
           - type: Button
             label: Download
             url: 'https://download.netlify.app'
+            variant: text
+            size: small
       - type: Card
         title: Version 1.20
         image:
