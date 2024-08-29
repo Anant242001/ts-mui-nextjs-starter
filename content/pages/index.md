@@ -10,7 +10,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Screenshot 2024-08-29 210910.png
       altText: Hero section image
   - type: CardsSection
     title: Download section for downloading versions of minecraft
@@ -27,7 +27,9 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://download.netlify.app'
+            variant: outlined
+            size: large
       - type: Card
         title: Version 1.20
         image:
@@ -40,6 +42,7 @@ sections:
           - type: Button
             label: DOWNLOAD
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            variant: outlined
       - type: Card
         title: Version 1.21
         image:
@@ -53,4 +56,6 @@ sections:
           - type: Button
             label: DOWNLOAD
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            variant: outlined
+            size: large
 ---
