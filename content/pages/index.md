@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Download free minecraft versions
-    subtitle: We provide free minecraft versions
+    subtitle: We provide free minecraft versions.
     text: |
       Scroll Down.
     actions: []
