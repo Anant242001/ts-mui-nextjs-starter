@@ -5,8 +5,9 @@ sections:
   - type: HeroSection
     title: Download free minecraft versions
     subtitle: We provide free minecraft versions.
-    text: |
-      Scroll Down.
+    text: |+
+      Scroll Down!
+
     actions: []
     image:
       type: Image
