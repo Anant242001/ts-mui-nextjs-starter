@@ -27,7 +27,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: 'https://download.netlify.app'
+            url: 'https://ddownload.netlify.app'
             variant: outlined
             size: large
       - type: Card
