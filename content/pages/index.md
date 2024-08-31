@@ -45,7 +45,7 @@ sections:
             url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
       - type: Card
-        title: Version 1.21
+        title: Version 1.21.81
         image:
           type: Image
           url: /images/1.21.webp
