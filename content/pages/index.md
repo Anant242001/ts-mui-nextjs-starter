@@ -99,7 +99,7 @@ sections:
             variant: outlined
             color: primary
       - type: Card
-        title: Version 1.81.32
+        title: Version 1.18.32
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
