@@ -134,7 +134,7 @@ sections:
             label: Download
             url: /
             size: large
-            variant: text
+            variant: outlined
             color: primary
       - type: Card
         title: "Version\_1.14.1"
