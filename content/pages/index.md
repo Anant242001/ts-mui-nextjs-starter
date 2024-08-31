@@ -110,7 +110,7 @@ sections:
           altText: Third item image
         actions:
           - type: Button
-            label: Learn more
+            label: Download
             url: /
             size: medium
             variant: text
