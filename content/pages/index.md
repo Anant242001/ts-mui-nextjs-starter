@@ -31,6 +31,7 @@ sections:
             url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
             size: large
+            color: primary
       - type: Card
         title: Version 1.20
         image:
@@ -59,4 +60,114 @@ sections:
             url: 'https://mcpedl.org/getfile/4077'
             variant: outlined
             size: large
+  - type: CardsSection
+    title: ''
+    subtitle: ''
+    items:
+      - type: Card
+        title: "Version\_1.16.221"
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/404'
+            size: large
+            variant: outlined
+            color: primary
+      - type: Card
+        title: Version 1.17.41
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/mui-5.svg
+          altText: Second item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/1024'
+            size: large
+            variant: outlined
+            color: primary
+      - type: Card
+        title: Version 1.18.32
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/ts.svg
+          altText: Third item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/1196'
+            size: large
+            variant: outlined
+            color: primary
+  - type: CardsSection
+    title: ''
+    subtitle: ''
+    items:
+      - type: Card
+        title: "Version\_1.13.1"
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/135'
+            size: large
+            variant: outlined
+            color: primary
+      - type: Card
+        title: "Version\_\_1.14.60"
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/mui-5.svg
+          altText: Second item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/123'
+            size: large
+            variant: outlined
+            color: primary
+      - type: Card
+        title: "Version\_\_1.15.0.56"
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/ts.svg
+          altText: Third item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/227'
+            size: large
+            variant: outlined
+            color: primary
 ---
