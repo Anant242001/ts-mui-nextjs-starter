@@ -28,7 +28,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: 'https://ddownload.netlify.app'
+            url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
             size: large
       - type: Card
