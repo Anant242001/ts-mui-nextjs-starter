@@ -96,7 +96,7 @@ sections:
             label: Download
             url: 'https://mcpedl.org/getfile/1024'
             size: large
-            variant: text
+            variant: outlined
             color: primary
       - type: Card
         title: Version 1.81.32
