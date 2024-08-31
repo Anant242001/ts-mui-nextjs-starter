@@ -18,7 +18,7 @@ sections:
     subtitle: Download here!
     items:
       - type: Card
-        title: Version 1.19.3
+        title: Version 1.19.41
         image:
           type: Image
           url: /images/1.19.3.png
@@ -28,7 +28,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: 'https://ddownload.netlify.app'
+            url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
             size: large
       - type: Card
@@ -42,10 +42,10 @@ sections:
         actions:
           - type: Button
             label: DOWNLOAD
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
       - type: Card
-        title: Version 1.21
+        title: Version 1.21.81
         image:
           type: Image
           url: /images/1.21.webp
@@ -56,7 +56,7 @@ sections:
         actions:
           - type: Button
             label: DOWNLOAD
-            url: 'https://mcpedl.org/getfile/4501'
+            url: 'https://mcpedl.org/getfile/4077'
             variant: outlined
             size: large
 ---
