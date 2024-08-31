@@ -133,7 +133,7 @@ sections:
           - type: Button
             label: Download
             url: /
-            size: medium
+            size: large
             variant: text
             color: primary
       - type: Card
