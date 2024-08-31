@@ -29,7 +29,7 @@ sections:
           - type: Button
             label: Download
             url: 'https://mcpedl.org/getfile/1416'
-            variant: text
+            variant: outlined
             size: large
             color: primary
       - type: Card
