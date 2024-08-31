@@ -112,7 +112,7 @@ sections:
           - type: Button
             label: Download
             url: 'https://mcpedl.org/getfile/1196'
-            size: medium
+            size: large
             variant: text
             color: primary
 ---
