@@ -72,7 +72,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Minecraft-1-16-1-header.avif
           altText: First item image
         actions:
           - type: Button
