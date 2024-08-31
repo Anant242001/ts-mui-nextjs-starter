@@ -137,7 +137,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Version
+        title: "Version\_1.14.1"
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
