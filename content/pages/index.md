@@ -31,7 +31,7 @@ sections:
             url: 'https://mcpedl.org/getfile/1416'
             variant: text
             size: large
-            color: primary
+            color: inherit
       - type: Card
         title: Version 1.20
         image:
