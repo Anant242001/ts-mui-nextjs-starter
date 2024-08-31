@@ -56,7 +56,7 @@ sections:
         actions:
           - type: Button
             label: DOWNLOAD
-            url: 'https://mcpedl.org/getfile/4501'
+            url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
             size: large
 ---
