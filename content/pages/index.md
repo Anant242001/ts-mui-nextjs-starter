@@ -18,7 +18,7 @@ sections:
     subtitle: Download here!
     items:
       - type: Card
-        title: Version 1.19.3
+        title: Version 1.19.41
         image:
           type: Image
           url: /images/1.19.3.png
