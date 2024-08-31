@@ -154,7 +154,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Version
+        title: "Version\_\_1.15.0.56"
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
