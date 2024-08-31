@@ -78,7 +78,7 @@ sections:
           - type: Button
             label: Download
             url: 'https://mcpedl.org/getfile/404'
-            size: medium
+            size: large
             variant: outlined
             color: primary
       - type: Card
