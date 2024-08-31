@@ -106,7 +106,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/1-18-1-release-header.avif
           altText: Third item image
         actions:
           - type: Button
