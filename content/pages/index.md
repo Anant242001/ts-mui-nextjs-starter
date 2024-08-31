@@ -56,7 +56,7 @@ sections:
         actions:
           - type: Button
             label: DOWNLOAD
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://mcpedl.org/getfile/4501'
             variant: outlined
             size: large
 ---
