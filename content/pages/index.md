@@ -113,6 +113,6 @@ sections:
             label: Download
             url: 'https://mcpedl.org/getfile/1196'
             size: large
-            variant: text
+            variant: outlined
             color: primary
 ---
