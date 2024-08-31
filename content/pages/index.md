@@ -8,13 +8,7 @@ sections:
     text: |+
       Scroll Down!
 
-    actions:
-      - type: Button
-        label: Learn morev
-        url: /v
-        size: medium
-        variant: text
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/Screenshot 2024-08-29 210910.png
