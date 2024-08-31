@@ -127,7 +127,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/1f6199ce1e15252fc432ea242f9bd598-Header.avif
           altText: First item image
         actions:
           - type: Button
