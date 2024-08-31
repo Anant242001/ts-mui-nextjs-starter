@@ -151,7 +151,7 @@ sections:
             label: Download
             url: /
             size: large
-            variant: text
+            variant: outlined
             color: primary
       - type: Card
         title: "Version\_\_1.15.0.56"
