@@ -149,7 +149,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: /
+            url: 'https://mcpedl.org/getfile/123'
             size: large
             variant: outlined
             color: primary
