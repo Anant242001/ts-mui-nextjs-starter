@@ -132,7 +132,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: /
+            url: ''
             size: large
             variant: outlined
             color: primary
