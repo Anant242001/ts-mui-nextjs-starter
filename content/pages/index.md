@@ -79,7 +79,7 @@ sections:
             label: Download
             url: 'https://mcpedl.org/getfile/404'
             size: medium
-            variant: text
+            variant: outlined
             color: primary
       - type: Card
         title: Version 1.17.41
