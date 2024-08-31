@@ -89,7 +89,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/1-17-1-release-header.avif
           altText: Second item image
         actions:
           - type: Button
