@@ -72,7 +72,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Minecraft-1-16-1-header.avif
           altText: First item image
         actions:
           - type: Button
@@ -89,7 +89,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/1-17-1-release-header.avif
           altText: Second item image
         actions:
           - type: Button
@@ -106,7 +106,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/1-18-1-release-header.avif
           altText: Third item image
         actions:
           - type: Button
@@ -127,7 +127,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/1f6199ce1e15252fc432ea242f9bd598-Header.avif
           altText: First item image
         actions:
           - type: Button
@@ -144,7 +144,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/1141header.avif
           altText: Second item image
         actions:
           - type: Button
@@ -161,7 +161,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/1.15.1_header.avif
           altText: Third item image
         actions:
           - type: Button
