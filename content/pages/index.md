@@ -30,7 +30,7 @@ sections:
             label: Download
             url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
-            size: medium
+            size: large
       - type: Card
         title: Version 1.20
         image:
