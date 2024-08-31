@@ -95,7 +95,7 @@ sections:
           - type: Button
             label: Download
             url: 'https://mcpedl.org/getfile/1024'
-            size: medium
+            size: large
             variant: text
             color: primary
       - type: Card
