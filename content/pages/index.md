@@ -42,7 +42,7 @@ sections:
         actions:
           - type: Button
             label: DOWNLOAD
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://mcpedl.org/getfile/1416'
             variant: outlined
       - type: Card
         title: Version 1.21
