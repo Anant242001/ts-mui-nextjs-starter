@@ -111,7 +111,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: /
+            url: 'https://mcpedl.org/getfile/1196'
             size: medium
             variant: text
             color: primary
