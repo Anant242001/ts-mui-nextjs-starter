@@ -82,7 +82,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Version
+        title: Version 1.17
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
