@@ -61,7 +61,7 @@ sections:
             variant: outlined
             size: large
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Card
