@@ -18,21 +18,6 @@ sections:
     subtitle: Download here!
     items:
       - type: Card
-        title: Version 1.19.41
-        image:
-          type: Image
-          url: /images/1.19.3.png
-          altText: First item image
-        text: |
-          **Minecraft 1.19 apk for Android**
-        actions:
-          - type: Button
-            label: Download
-            url: 'https://mcpedl.org/getfile/1416'
-            variant: outlined
-            size: large
-            color: primary
-      - type: Card
         title: Version 1.21.81
         image:
           type: Image
@@ -47,6 +32,21 @@ sections:
             url: 'https://mcpedl.org/getfile/4077'
             variant: outlined
             size: large
+      - type: Card
+        title: Version 1.19.41
+        image:
+          type: Image
+          url: /images/1.19.3.png
+          altText: First item image
+        text: |
+          **Minecraft 1.19 apk for Android**
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/1416'
+            variant: outlined
+            size: large
+            color: primary
       - type: Card
         title: Version 1.20
         image:
