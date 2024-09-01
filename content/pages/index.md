@@ -66,9 +66,8 @@ sections:
     items:
       - type: Card
         title: "Version\_1.16.221"
-        text: |+
-          **Minecraft 1.19 apk for Android**
-
+        text: |
+          **Minecraft 1.16.221 apk for Android**
         image:
           type: Image
           url: /images/Minecraft-1-16-1-header.avif
