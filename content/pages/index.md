@@ -146,9 +146,8 @@ sections:
             color: primary
       - type: Card
         title: "Version\_\_1.15.0.56"
-        text: |+
-          **Minecraft 1.15.0.6 apk for Android**
-
+        text: |
+          **Minecraft 1.15.0.56 apk for Android**
         image:
           type: Image
           url: /images/1.15.1_header.avif
