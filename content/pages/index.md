@@ -11,7 +11,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/Screenshot 2024-08-29 210910.png
+      url: /images/Minecraft (1).png
       altText: Hero section image
   - type: CardsSection
     title: Download section for downloading versions of minecraft
