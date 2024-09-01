@@ -81,9 +81,8 @@ sections:
             color: primary
       - type: Card
         title: Version 1.17.41
-        text: |+
-          **Minecraft 1.19 apk for Android**
-
+        text: |
+          **Minecraft 1.17.41 apk for Android**
         image:
           type: Image
           url: /images/1-17-1-release-header.avif
