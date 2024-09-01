@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Minecraft Downloader
 type: Page
 sections:
   - type: HeroSection
