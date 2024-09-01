@@ -66,10 +66,8 @@ sections:
     items:
       - type: Card
         title: "Version\_1.16.221"
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          **Minecraft 1.16.221 apk for Android**
         image:
           type: Image
           url: /images/Minecraft-1-16-1-header.avif
@@ -83,10 +81,8 @@ sections:
             color: primary
       - type: Card
         title: Version 1.17.41
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          **Minecraft 1.17.41 apk for Android**
         image:
           type: Image
           url: /images/1-17-1-release-header.avif
@@ -100,10 +96,8 @@ sections:
             color: primary
       - type: Card
         title: Version 1.18.32
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          **Minecraft 1.13.32 apk for Android**
         image:
           type: Image
           url: /images/1-18-1-release-header.avif
@@ -121,10 +115,9 @@ sections:
     items:
       - type: Card
         title: "Version\_1.13.1"
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          **Minecraft 1.13.1 apk for Android**
+
         image:
           type: Image
           url: /images/1f6199ce1e15252fc432ea242f9bd598-Header.avif
@@ -138,10 +131,8 @@ sections:
             color: primary
       - type: Card
         title: "Version\_\_1.14.60"
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          **Minecraft 1.14.60 apk for Android**
         image:
           type: Image
           url: /images/1141header.avif
@@ -155,10 +146,8 @@ sections:
             color: primary
       - type: Card
         title: "Version\_\_1.15.0.56"
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          **Minecraft 1.15.0.56 apk for Android**
         image:
           type: Image
           url: /images/1.15.1_header.avif
