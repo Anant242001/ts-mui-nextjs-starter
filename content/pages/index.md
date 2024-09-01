@@ -11,7 +11,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/Minecraft.png
+      url: /images/Minecraft-removebg-preview.png
       altText: Hero section image
   - type: CardsSection
     title: Download section for downloading versions of minecraft
