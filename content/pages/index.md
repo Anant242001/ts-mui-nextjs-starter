@@ -114,6 +114,21 @@ sections:
     subtitle: ''
     items:
       - type: Card
+        title: "Version\_\_1.15.0.56"
+        text: |
+          **Minecraft 1.15.0.56 apk for Android**
+        image:
+          type: Image
+          url: /images/1.15.1_header.avif
+          altText: Third item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/227'
+            size: large
+            variant: outlined
+            color: primary
+      - type: Card
         title: "Version\_1.13.1"
         text: |+
           **Minecraft 1.13.1 apk for Android**
@@ -126,21 +141,6 @@ sections:
           - type: Button
             label: Download
             url: 'https://mcpedl.org/getfile/135'
-            size: large
-            variant: outlined
-            color: primary
-      - type: Card
-        title: "Version\_\_1.15.0.56"
-        text: |
-          **Minecraft 1.15.0.56 apk for Android**
-        image:
-          type: Image
-          url: /images/1.15.1_header.avif
-          altText: Third item image
-        actions:
-          - type: Button
-            label: Download
-            url: 'https://mcpedl.org/getfile/227'
             size: large
             variant: outlined
             color: primary
