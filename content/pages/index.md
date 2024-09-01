@@ -33,19 +33,6 @@ sections:
             size: large
             color: primary
       - type: Card
-        title: Version 1.20
-        image:
-          type: Image
-          url: /images/1.20.webp
-          altText: Second item image
-        text: |
-          **Minecraft 1.20  apk for Android**
-        actions:
-          - type: Button
-            label: DOWNLOAD
-            url: 'https://mcpedl.org/getfile/1416'
-            variant: outlined
-      - type: Card
         title: Version 1.21.81
         image:
           type: Image
@@ -60,6 +47,19 @@ sections:
             url: 'https://mcpedl.org/getfile/4077'
             variant: outlined
             size: large
+      - type: Card
+        title: Version 1.20
+        image:
+          type: Image
+          url: /images/1.20.webp
+          altText: Second item image
+        text: |
+          **Minecraft 1.20  apk for Android**
+        actions:
+          - type: Button
+            label: DOWNLOAD
+            url: 'https://mcpedl.org/getfile/1416'
+            variant: outlined
   - type: CardsSection
     title: ''
     subtitle: ''
