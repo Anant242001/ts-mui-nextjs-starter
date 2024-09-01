@@ -96,10 +96,9 @@ sections:
             color: primary
       - type: Card
         title: Version 1.18.32
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          **Minecraft 1.13.21 apk for Android**
+
         image:
           type: Image
           url: /images/1-18-1-release-header.avif
