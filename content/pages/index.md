@@ -65,21 +65,6 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Version 1.17.41
-        text: |
-          **Minecraft 1.17.41 apk for Android**
-        image:
-          type: Image
-          url: /images/1-17-1-release-header.avif
-          altText: Second item image
-        actions:
-          - type: Button
-            label: Download
-            url: 'https://mcpedl.org/getfile/1024'
-            size: large
-            variant: outlined
-            color: primary
-      - type: Card
         title: Version 1.18.32
         text: |
           **Minecraft 1.13.32 apk for Android**
@@ -91,6 +76,21 @@ sections:
           - type: Button
             label: Download
             url: 'https://mcpedl.org/getfile/1196'
+            size: large
+            variant: outlined
+            color: primary
+      - type: Card
+        title: Version 1.17.41
+        text: |
+          **Minecraft 1.17.41 apk for Android**
+        image:
+          type: Image
+          url: /images/1-17-1-release-header.avif
+          altText: Second item image
+        actions:
+          - type: Button
+            label: Download
+            url: 'https://mcpedl.org/getfile/1024'
             size: large
             variant: outlined
             color: primary
