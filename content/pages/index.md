@@ -115,10 +115,9 @@ sections:
     items:
       - type: Card
         title: "Version\_1.13.1"
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          **Minecraft 1.13.1 apk for Android**
+
         image:
           type: Image
           url: /images/1f6199ce1e15252fc432ea242f9bd598-Header.avif
